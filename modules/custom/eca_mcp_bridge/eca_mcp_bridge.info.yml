@@ -1,0 +1,7 @@
+name: 'ECA MCP Bridge'
+type: module
+description: 'Provides an ECA action to bridge OpenAI LLM output to a local MCP server.'
+core_version_requirement: '^10'
+package: 'ECA'
+dependencies:
+  - eca:eca
